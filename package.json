@@ -1,0 +1,13 @@
+{
+  "name": "buckets-markdown",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "David Kaneda",
+  "license": "",
+  "dependencies": {
+    "marked": "^0.3.2"
+  }
+}
