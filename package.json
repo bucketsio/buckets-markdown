@@ -1,7 +1,7 @@
 {
   "name": "buckets-markdown",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.3",
+  "description": "Markdown FieldType for Buckets CMS.",
   "main": "index.js",
   "scripts": {
   },
