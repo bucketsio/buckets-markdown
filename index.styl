@@ -1,9 +1,8 @@
 #markdownLogo
   position absolute
-  top 15px
+  top 4px
   right 15px
-  width 30px
-  height 20px
+  width 26px
   height auto
   opacity .3
   cursor pointer
@@ -12,15 +11,22 @@
   &:hover
     opacity .5
 
+.markdown-container
+  overflow hidden
+  position relative
+  margin -2px -15px 0
+  background-color #fafafa
+  padding 15px 15px
+
 .markdown-preview
   position absolute
-  top 2px
-  right 2px
-  left 2px
-  bottom 2px
+  top 0
+  right 0
+  left 0
+  bottom 0
   display none
-  padding 10px
-  background-color rgba(#fefefe,.96)
+  padding 15px 35px 15px 15px
+  background-color rgba(#fefefe,.98)
   overflow auto
   color #888
   font-size 16px
@@ -30,5 +36,7 @@
   font-family Menlo,'Courier New',monospace
   font-size 14px
   color #222
+  padding 0
   padding-right 35px
-  padding-top 13px
+  border 0
+  background-color transparent
