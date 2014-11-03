@@ -1,4 +1,4 @@
 buckets-markdown
 ================
 
-A Markdown plugin (using Marked) for Buckets
+A Markdown FieldType plugin (using Marked) for [Buckets](http://buckets.io).

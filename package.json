@@ -1,13 +1,17 @@
 {
   "name": "buckets-markdown",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Markdown FieldType for Buckets CMS.",
   "main": "index.coffee",
   "scripts": {
   },
   "author": "David Kaneda <dk@morfunk.com> (http://www.davidkaneda.com)",
-  "license": "AGPL-3.0",
+  "license": "MIT",
   "dependencies": {
     "marked": "^0.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bucketsio/buckets-markdown.git"
+  },
 }
